@@ -1,5 +1,5 @@
 # guess-the-number
-The game randomises a guess number and accepts input from users until the number is correctly matched.
+This game randomises a guess number and accepts input from users until the number is correctly matched.
 
 ##
 This simple game is written in Python to test the ability to reuse functions in a game.
